@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Shift Tracker</string>
+    <string name="action_sign_in_short">Registre</string>
+    <string name="email">Email</string>
+    <string name="user_name">UserName</string>
+    <string name="minimum_password">Mot de passe trop court, entrez au moins 6 caractères!</string>
+    <string name="auth_failed">L\'authentification a échoué, vérifiez votre email et votre mot de passe ou inscrivez-vous</string>
+    <string name="change_email">Changer Email</string>
+    <string name="add_user">Ajouter Utilisateur</string>
+    <string name="change_password">Changer le mot de passe</string>
+    <string name="send_password_reset_email">Send Password reset email</string>
+    <string name="remove_user">Remove user</string>
+    <string name="new_pass">New Password</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Se Connecter</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Mot de Passe</string>
+    <string name="hint_name">Nom</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Pas un membre? Inscrivez-vous maintenant!</string>
+    <string name="btn_link_to_login">Déjà enregistré. Me connecter!</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Mot de passe oublié?</string>
+    <string name="btn_reset_password">Réinitialiser le mot de passe</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="hint_new_email">Nouveau Mail</string>
+    <string name="hint_user_name">Nom d\'Utilisateur</string>
+    <string name="hint_user_mail">E-Mail</string>
+    <string name="btn_change">Changer</string>
+    <string name="emp">Employee</string>
+    <string name="resp">Responsable</string>
+    <string name="btn_add">Ajouter</string>
+    <string name="btn_send">Envoyer</string>
+    <string name="btn_remove">Supprimer</string>
+    <string name="btn_sign_out">Deconnecter</string>
+    <string name="lbl_forgot_password">Mot de passe oublié?</string>
+    <string name="forgot_password_msg">Nous avons juste besoin de votre email ID enregistré pour vous envoyer des instructions de réinitialisation de mot de passe.</string>
+    <string name="barman">Barman</string>
+    <string name="accueil">Accueil</string>
+    <string name="hote">Hôte/hôtesse de table</string>
+    <string name="cusine">Cusine</string>
+    <string name="hint_user_adresse">Adresse</string>
+    <string name="hint_user_tel">Téléphone</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+
+</resources>

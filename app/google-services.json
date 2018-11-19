@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "598237800002",
+    "firebase_url": "https://testauth-f20d5.firebaseio.com",
+    "project_id": "testauth-f20d5",
+    "storage_bucket": "testauth-f20d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598237800002:android:875826f41b75eba4",
+        "android_client_info": {
+          "package_name": "com.example.android.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598237800002-9mhcivo4cllhog5ae6sftoplpcm2shqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvzbcbeMEnV3TpznMpbqD5Gc-OehRN1QM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

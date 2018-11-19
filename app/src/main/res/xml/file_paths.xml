@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-path name="photoFile" path="Android/data/com.example.android.myapplication/files/Pictures/" />
+</paths>
+
+<!--//content://com.example.android.fileprovider/my_images/JPEG_20181119_130209_304622038573195641.jpg-->

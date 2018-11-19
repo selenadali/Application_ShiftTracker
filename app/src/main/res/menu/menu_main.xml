@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/miDeconnection"
+        android:icon="@drawable/ic_action_name"
+        app:showAsAction="never"
+        android:title="Deconnection"
+        android:onClick="onDeconnection"
+        >
+    </item>
+
+    <item
+        android:id="@+id/miProfile"
+        android:icon="@drawable/ic_profile"
+        app:showAsAction="ifRoom"
+        android:title="Profile"
+        android:onClick="onProfileAction"
+        >
+    </item>
+</menu>
+
